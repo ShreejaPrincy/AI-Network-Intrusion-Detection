@@ -163,14 +163,6 @@ AI-Network-Intrusion-Detection/
 3. Run all notebook cells step by step.
 4. View model accuracy, confusion matrix, classification report, and prediction output.
 
-## Resume Description
-
-**AI-Based Network Intrusion Detection System using NSL-KDD Dataset**
-
-- Developed a machine learning-based intrusion detection system to classify network traffic as normal or attack.
-- Preprocessed the NSL-KDD dataset by encoding categorical features and converting attack labels into binary classes.
-- Implemented Logistic Regression and Random Forest classifiers using Scikit-learn.
-- Evaluated model performance using accuracy, confusion matrix, precision, recall, and F1-score, achieving 95%+ accuracy.
 
 ## Future Improvements
 
